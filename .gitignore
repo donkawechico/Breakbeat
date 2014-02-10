@@ -213,3 +213,9 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+# Generated media files
+test_random.wav
+
+# Miscellaneous media test files
+test*.wav
